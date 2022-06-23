@@ -1,0 +1,29 @@
+
+npm init -y
+
+npm install express
+npm install mongoose
+npm install cors
+npm install --save-dev nodemon
+
+extension rest-client
+rest client for visual code
+
+
+
+
+
+larimongo
+harjoitus1
+
+T----p----51!
+
+
+
+
+mongodb+srv://<username>:<password>@cluster0.yy4fnfq.mongodb.net/?retryWrites=true&w=majority
+		larimongo:harjoitus1
+
+tarvii koodissa kun yhdistetään mongodatabaseen
+username mongo user
+password mongo user password
